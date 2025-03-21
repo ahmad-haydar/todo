@@ -12,7 +12,7 @@ A modern task management dashboard built with Next.js and Tailwind CSS.
 
 ## Screenshot
 
-![Error](./image.png)
+![Error](./public/image.png)
 
 ## Getting Started
 
